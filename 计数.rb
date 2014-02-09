@@ -52,8 +52,6 @@ private
       row = 3, col = 2
     when '9'
       row = 3, col = 1.5
-    else
-
     end
   end
 end
